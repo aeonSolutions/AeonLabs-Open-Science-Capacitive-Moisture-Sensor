@@ -16,7 +16,13 @@
 
 <br>
 
-# Capacitive-Moisture and Temperature  made for 100 mm height laboratory specimens 
+# Capacitive Moisture and Temperature Sensor
+This is a capacitive moisture and temperature sensor pruposly made for 100 mm height laboratory specimens.
+
+<p align="center">
+     <img height="" src="">
+     <img height="" src="">
+</p>
 
 
 <br>
