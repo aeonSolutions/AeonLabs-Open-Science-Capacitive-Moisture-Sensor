@@ -20,8 +20,8 @@
 This is a capacitive moisture and temperature sensor pruposly made for 100 mm height laboratory specimens.
 
 <p align="center">
-     <img height="" src="">
-     <img height="" src="">
+     <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_back.jpg">
+     <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_top.jpg">
 </p>
 
 
