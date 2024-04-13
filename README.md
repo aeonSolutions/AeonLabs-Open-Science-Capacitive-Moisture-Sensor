@@ -48,6 +48,12 @@ This is a capacitive moisture and temperature sensor purposely made for laborato
  <sup>Click to view the latest revision</sup>
 </p>
 
+## CE Ready Logo
+This hardware is ready to get a CE marking. To learn more about this marking goto to [Wikipedia here](https://en.wikipedia.org/wiki/CE_marking).
+
+<p align="center">
+   <img height="100px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/CE_READY.png">
+</p>
 
 <br>
 <br />
