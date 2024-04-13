@@ -19,7 +19,7 @@ Last update: 13-04-2024
 </p>
 
 # Capacitive Moisture and Temperature Sensor
-This is a capacitive moisture and temperature sensor purposely made for 100 mm height laboratory specimens.
+This is a capacitive moisture and temperature sensor purposely made for 100 mm heigh and another for 50mm height laboratory specimens. 
 
 <p align="center">
      <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_back.jpg">
