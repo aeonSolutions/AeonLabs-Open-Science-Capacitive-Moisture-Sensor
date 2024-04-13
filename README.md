@@ -24,8 +24,8 @@ Last update: 13-04-2024
 This is a capacitive moisture and temperature sensor purposely made for laboratory specimens with 100mm height. 
 
 <p align="center">
-     <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_back.jpg">
-     <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_top.jpg">
+     <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/capacitive_sensor_probe_pcb_front_100mm.jpg"> <br>
+     <img  height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/capacitive_sensor_probe_pcb_back_100mm.jpg">
 </p>
 
 <p align="center">
@@ -38,8 +38,8 @@ This is a capacitive moisture and temperature sensor purposely made for laborato
 This is a capacitive moisture and temperature sensor purposely made for laboratory specimens with 50mm height. 
 
 <p align="center">
-     <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_back.jpg">
-     <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_top.jpg">
+     <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/capacitive_sensor_probe_pcb_front_50mm.jpg"> <br>
+     <img  height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/capacitive_sensor_probe_pcb_back_50mm.jpg">
 </p>
 
 <p align="center">
