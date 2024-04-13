@@ -19,11 +19,33 @@ Last update: 13-04-2024
 </p>
 
 # Capacitive Moisture and Temperature Sensor
-This is a capacitive moisture and temperature sensor purposely made for 100 mm heigh and another for 50mm height laboratory specimens. 
+
+### For Laboratory Specimens with 100mm height
+This is a capacitive moisture and temperature sensor purposely made for laboratory specimens with 100mm height. 
 
 <p align="center">
      <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_back.jpg">
      <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_top.jpg">
+</p>
+
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/capacitive_sensor_probe_50mm/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/capacitive_sensor_probe_50mm/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
+</p>
+
+### For Laboratory Specimens with 50mm height
+This is a capacitive moisture and temperature sensor purposely made for laboratory specimens with 50mm height. 
+
+<p align="center">
+     <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_back.jpg">
+     <img width="48%" height="200" src="https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor/blob/main/media/humidity_capacitive_semsor_top.jpg">
+</p>
+
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/capacitive_sensor_probe_50mm/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/capacitive_sensor_probe_50mm/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
 </p>
 
 
