@@ -19,6 +19,7 @@ Last update: 13-04-2024
 </p>
 
 # Capacitive Moisture and Temperature Sensor
+<sup> <img height="15" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png">  **status: <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">M.V.P.</a>** NOW SELLING on <a href="https://www.tindie.com/stores/aeonlabs/">Tindie.com</a>  </sup> <br>
 
 ### For Laboratory Specimens with 100mm height
 This is a capacitive moisture and temperature sensor purposely made for laboratory specimens with 100mm height. 
